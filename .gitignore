@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.build/
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*.elf
+*.bin
+*.map
+.DS_Store
+Thumbs.db
